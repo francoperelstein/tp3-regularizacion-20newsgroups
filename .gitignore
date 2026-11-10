@@ -1,1 +1,6 @@
-mlruns/, runs/, *.db, *.pkl, *.pth, __pycache__/.
+mlruns/
+runs/
+*.db
+*.pkl
+*.pth
+__pycache__/
