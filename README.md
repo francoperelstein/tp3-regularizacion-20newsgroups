@@ -5,7 +5,7 @@ Trabajo práctico de **Redes Neuronales en Bioingeniería** (ITBA). Continúa el
 ## Cómo correrlo
 1. Abrir `TP3_Regularizacion_20Newsgroups.ipynb` en Google Colab con GPU.
 2. Instalar dependencias con `requirements.txt` (la primera celda del notebook instala `mlflow` y `optuna`).
-3. Ejecutar todas las celdas en orden. La corrida completa tarda aproximadamente una hora y veinte minutos (1h y 20min): la búsqueda de 150 trials tarda unos 26 minutos y los experimentos controlados, el resto.
+3. Ejecutar todas las celdas en orden. La corrida completa tarda aproximadamente 1 hora y 20 minutos: la búsqueda de 150 trials tarda unos 26 minutos y los experimentos controlados, el resto.
 
 ## Contenido del notebook
 Setup, datos, preprocesamiento y TF-IDF (del TP2) · MLP con regularización · entrenamiento · búsqueda con Optuna (un estudio por optimizador, con pruning) · experimentos controlados con 5 semillas · valores absolutos de pesos · tiempos, learning rate y ruido · modelo final · evaluación final · conclusiones y limitaciones.
